@@ -1,0 +1,6 @@
+MAAZ      : Venusaur, Blastoise, Charizard
+SDFGDFG   : Alakazam, Blastoise, Articuno
+DOMINIC   : Blastoise, Venusaur, Articuno
+NICK      : Gengar, Venusaur, Machamp
+MAAZ      : Venusaur, Machamp, Gengar
+SADF      : Alakazam, Blastoise, Articuno
